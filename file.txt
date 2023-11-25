@@ -1,2 +1,6 @@
 this is a test
+<<<<<<< HEAD
 this is xiaobai
+=======
+this is xiaohei
+>>>>>>> 208854588ee7147d402c4ceb14a96ee3cca720d0
